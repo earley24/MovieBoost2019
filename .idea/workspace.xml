@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../17214/cne" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/Team15" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/homework/2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/homework/3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/homework/4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/homework/5" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/homework/6" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/recitation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/recitation/06" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/recitation/07" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/recitation/08" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/recitation/09" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/recitation/10" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/recitation/10/Recitation10" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/recitation/13" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/recitation/14" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../17214/cne/recitation/Recitation10" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Recitation10" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Team15" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../practice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../practice/linked_list" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/17214/cne/recitation/01" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="96" />
+    <option name="y" value="-37" />
+    <option name="width" value="1795" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,9 +1,9 @@
-
-Public class MovieBoostSystem{
-
-
+public class MovieBoostSystem {
 
     
+
+    public receive(input) {
+        return;
+    }
+    
 }
-
-
